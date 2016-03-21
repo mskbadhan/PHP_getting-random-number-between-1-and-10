@@ -1,0 +1,1 @@
+A very simple learning on rand() functions where we can get a random value between 1 and 10;
